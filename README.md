@@ -2,7 +2,7 @@
 
 
 <h1 style="text-align: center;">Tower4Defense</h1> 
-Mehdi Chakhchoukh, Quentin Lemasson
+Project by Mehdi Chakhchoukh, Quentin Lemasson
 
 ![ImageEx](/game.PNG?raw=true "") 
 
@@ -22,7 +22,7 @@ To do that you have 4 tower tiles that you can place anywhere on the board to sh
 
 To implement our game Tower4Defence, we had to design and implement a novel way to interact with AR objects using their orientations relative to the camera of the player. 
  
- <strong style="color: #000;">Software part: 
+ <strong style="color: #000;">Software part: </strong> </p>
  
 We Implemented a functional prototype of the game with a demo level that has 3 (quite difficult) waves of enemies using Unity and Vuforia. 
  
