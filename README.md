@@ -34,14 +34,14 @@ We decided to make all 3D objects/assets ourselves to ensure that the 3D objects
 ![ImageEx](/towers.PNG?raw=true "")
 ![ImageEx](/enemies.PNG?raw=true "") 
 
-<strong style="color: #000;">Tangible part: 
+<strong style="color: #000;">Tangible part:   </strong> </p>
 
 The tangible part of our project is comprised of:  • 4 wooden tower tiles with magnets embedded in them and a unique image target on top. • A board divided in 5x5 tiles with each tile being 10x10cm in size. Each tile has a 7x7cm centered magnetic core (to make tower tiles stick and stabilize the game). And an extruded image target in the middle. It is extruded to prevent users from hiding it by sliding a tower tile on top of it. 
 
 ![ImageEx](/woodboard.PNG?raw=true "") 
 
 
-<strong style="color: #000;">Making process of the tangibles:  
+<strong style="color: #000;">Making process of the tangibles:    </strong> </p>
 
 We experimented with 6 different paper prototypes with tiles that were respectively sized 5x5cm, 7x7cm, 9x9cm, 11x11cm, 13x13cm, 15x15cm. 
 We settled for tiles of 10x10 cm for optimal image target recognition without the tiles being too big 
