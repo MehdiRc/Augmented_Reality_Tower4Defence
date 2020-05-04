@@ -4,6 +4,8 @@
 <h1 style="text-align: center;">Tower4Defense</h1> 
 Mehdi Chakhchoukh, Quentin Lemasson
 
+![ImageEx](/game.PNG?raw=true "") 
+
 <hr> <p> <strong style="color: #000;">What is Tower4Defence: </strong> </p>
 
  Our project Tower4Defence is a real time, 4-dimensional, Tower defence AR game that you can play on your smartphone. Depending on which way you look at the game (out of North, South, East, West), you will see a different game “universe” (dimension) taking place before you. see parallel universes video demo [here](https://www.youtube.com/watch?v=gCURxKNXDcc&feature=youtu.be).
@@ -11,6 +13,10 @@ Mehdi Chakhchoukh, Quentin Lemasson
 The goal of the game is to defend your “treasure” from enemies trying to reach it in all 4 dimensions. 
  
 To do that you have 4 tower tiles that you can place anywhere on the board to shoot enemies. Each tower has 4 different forms (Arrow, Bomb, Fire and Water Tower) depending on its orientation relative to the camera of the player and exists in all 4 planes of existence in its different forms. See rotation video demo [here](https://www.youtube.com/watch?v=du3nK9W3kMQ&feature=youtu.be).
+
+
+![ImageEx](/towerTiles.PNG?raw=true "") 
+
 
 <hr> <p> <strong style="color: #000;">Image Target Rotation Interaction:  </strong> </p>
 
@@ -24,10 +30,15 @@ We decided to make all 3D objects/assets ourselves to ensure that the 3D objects
  • 4 parallel “universes” with different level designs (landscapes, roads and enemy spawns).
  • 5 different types of enemies each with their strengths and weaknesses to different types of towers as well as attributes like life points speed and spawn rate. o Enemies are weak against the tower that has their color (ex: red enemies weak against fire tower). This gameplay feature ensures that the players spend most of their time moving and rotating the pieces around to keep them engaged as well as think in 4D for extra challenge.
  • A pause button to let the players explore the 4 parallel universes in a calm way and think of an optimal placement and orientation for their towers. This feature was also thought out to unsure that our game is accessible to people with less mobility / mobility impairment. 
- 
+![ImageEx](/boards.PNG?raw=true "") 
+![ImageEx](/towers.PNG?raw=true "")
+![ImageEx](/enemies.PNG?raw=true "") 
+
 <strong style="color: #000;">Tangible part: 
 
 The tangible part of our project is comprised of:  • 4 wooden tower tiles with magnets embedded in them and a unique image target on top. • A board divided in 5x5 tiles with each tile being 10x10cm in size. Each tile has a 7x7cm centered magnetic core (to make tower tiles stick and stabilize the game). And an extruded image target in the middle. It is extruded to prevent users from hiding it by sliding a tower tile on top of it. 
+
+![ImageEx](/woodboard.PNG?raw=true "") 
 
 
 <strong style="color: #000;">Making process of the tangibles:  
@@ -37,6 +48,9 @@ We settled for tiles of 10x10 cm for optimal image target recognition without th
  
 We made the final version of the game tangibles out of wood to have tangible pieces that were both sturdy and nice to hold in hand as well as completely flat for better image target tracking. 
 The tower tiles were made of 2 layers of laser cut 5mm plywood with 4 neodymium magnets embedded in them. 5mm tiles were uncomfortable to pick so we doubled the thickness by sticking together 2 layers of wood. We also put colored stickers on the sides of each tile to make the switching between the forms of the tower easier for users
+
+![ImageEx](/magnets.PNG?raw=true "") 
+
 
 <hr> <p> <strong style="color: #000;">Challenges faced during this project:   </strong> </p>
 
@@ -56,10 +70,6 @@ Here we noticed 2 types of behavior:
 From here the possibilities are endless, some upgrades and future features we thought about are: -Porting the game on the HoloLens for an even better AR experience. -Customizing the look of the different universes even more ( with colors of different 3D models)  -Adding an upgrading area for the towers next to the board where you need to put a tower for a minute to have a stronger tower but in the meantime you only play with 3 towers, making the levels more challenging. -Stopping a tower from shooting if it is placed on a road (so that you need to take into account the roads of all 4 dimensions before placing the tower) -Adding network synchronization to play the game in multiplayer on different smartphones. 
 
 
-![ImageEx](/game.PNG?raw=true "") 
-![ImageEx](/towers.PNG?raw=true "") 
-![ImageEx](/towerTiles.PNG?raw=true "") 
-![ImageEx](/enemies.PNG?raw=true "") 
-![ImageEx](/magnets.PNG?raw=true "") 
-![ImageEx](/board.PNG?raw=true "") 
-![ImageEx](/woodboard.PNG?raw=true "") 
+ 
+
+
