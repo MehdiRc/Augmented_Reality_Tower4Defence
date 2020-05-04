@@ -2,6 +2,8 @@
 
 
 <h1 style="text-align: center;">Tower4Defense</h1> 
+<h4><code>Augmented Reality, vuforia, unity </code></h4>
+
 Project by Mehdi Chakhchoukh, Quentin Lemasson
 
 ![ImageEx](/game.PNG?raw=true "") 
