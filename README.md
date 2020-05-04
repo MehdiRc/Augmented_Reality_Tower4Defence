@@ -56,10 +56,10 @@ Here we noticed 2 types of behavior:
 From here the possibilities are endless, some upgrades and future features we thought about are: -Porting the game on the HoloLens for an even better AR experience. -Customizing the look of the different universes even more ( with colors of different 3D models)  -Adding an upgrading area for the towers next to the board where you need to put a tower for a minute to have a stronger tower but in the meantime you only play with 3 towers, making the levels more challenging. -Stopping a tower from shooting if it is placed on a road (so that you need to take into account the roads of all 4 dimensions before placing the tower) -Adding network synchronization to play the game in multiplayer on different smartphones. 
 
 
-![ImageEx](imgs/game.PNG?raw=true "") 
-![ImageEx](imgs/towers.PNG?raw=true "") 
-![ImageEx](imgs/towerTiles.PNG?raw=true "") 
-![ImageEx](imgs/enemies.PNG?raw=true "") 
-![ImageEx](imgs/magnets.PNG?raw=true "") 
-![ImageEx](imgs/board.PNG?raw=true "") 
-![ImageEx](imgs/woodboard.PNG?raw=true "") 
+![ImageEx](/game.PNG?raw=true "") 
+![ImageEx](/towers.PNG?raw=true "") 
+![ImageEx](/towerTiles.PNG?raw=true "") 
+![ImageEx](/enemies.PNG?raw=true "") 
+![ImageEx](/magnets.PNG?raw=true "") 
+![ImageEx](/board.PNG?raw=true "") 
+![ImageEx](/woodboard.PNG?raw=true "") 
